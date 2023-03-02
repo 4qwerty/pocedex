@@ -1,0 +1,21 @@
+.title {
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.pokedex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pokemon-list-container {
+    flex: 1;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.pokemon-stats-container {
+    flex: 1;
+}

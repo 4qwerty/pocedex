@@ -1,0 +1,8 @@
+.card {
+    /* other styles */
+    cursor: pointer;
+}
+
+.card:hover {
+    background-color: lightgray;
+}
